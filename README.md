@@ -2,4 +2,6 @@
 
 Polynomial families of Fourth-Power Identities with Variable Coefficients
 
+Author: Guruprasad 
+
 Note : this paper is written with the assistance of ai.
